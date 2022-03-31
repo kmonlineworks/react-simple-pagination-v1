@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# React Simple Pagination Reuseable Component
+
+This react simple pagination is build using **styled-component**
+
+It can be used in any react app as a component easily.
+
+Used previously created react card component to displaying data for pagination.
+
+The card component has used dummy data fetch from fake API provided by dummyjson.
+
+### Special Thanks for Free Fake API Data [DummyJson](https://dummyjson.com)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
